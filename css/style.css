@@ -1,0 +1,11 @@
+*{
+    background-color: antiquewhite;
+}
+
+#login>input{
+    border: 3;
+}
+
+form{
+    margin: auto;
+}

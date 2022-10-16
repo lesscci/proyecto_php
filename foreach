@@ -1,0 +1,4 @@
+
+<?php foreach ($alumnes as $alumne): ?>
+            <p><?= $alumne; ?></p>
+        <?php endforeach; ?>
